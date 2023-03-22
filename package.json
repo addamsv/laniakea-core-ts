@@ -1,0 +1,27 @@
+{
+  "name": "laniakea-core-ts",
+  "version": "1.0.1",
+  "description": "reacty-mimi-uilib",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addamsv/laniakea-core-ts.git"
+  },
+  "keywords": [
+    "reacty-mimi-uilib"
+  ],
+  "author": "S.Adamovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addamsv/laniakea-core-ts/issues"
+  },
+  "homepage": "https://github.com/addamsv/laniakea-core-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
