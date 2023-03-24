@@ -4,6 +4,7 @@
   "description": "reacty-mimi-uilib",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
   "scripts": {
     "build": "tsc"
   },
